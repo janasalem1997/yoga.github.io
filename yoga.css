@@ -1,0 +1,84 @@
+body
+{
+    background: url("img/bg.jpg");
+}
+
+.bx3
+{
+    background: white;
+    height: %;
+}
+.bx2
+{
+    background: white;
+    margin-bottom: 10px;
+    
+}
+
+
+.logo{
+    padding: 10px;
+    background:;
+}
+.quotes{
+    padding: 0px;
+    text-align: center;
+}
+.logo > img {
+    
+   display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:70px;
+    height: 70px;
+
+
+}
+.pannel-head
+{
+    text-align: center;
+
+}
+.about{
+
+    background: red;
+    height: 100%;
+}
+.title
+{
+    background: blue;
+    height: 100px;
+
+
+}
+
+
+.row_features{
+    margin-top: 5%;
+
+}
+
+.detials{
+}
+
+#about{
+
+    box-shadow: inset 0 0 0 3000px rgba(66,65,65,0.8);
+    filter: blur(0px);
+
+
+padding: 5%;
+    color: white;
+
+}
+.sidebanner{
+    background:;
+    
+}
+.sidebanner>img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+
+}

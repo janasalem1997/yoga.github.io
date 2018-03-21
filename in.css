@@ -1,0 +1,29 @@
+body
+{
+    background;
+}
+.bc
+{
+    height:60px;
+    background-color: black;
+}
+.cnt
+
+{
+    padding: 10px;
+    height: 500px;
+    background: gray;
+}
+.cnt-head
+{
+    height:100px; 
+}
+.cnt-body
+{
+    
+}
+.btn1
+{
+    width: 100%;
+    margin-bottom: 10px;
+}
